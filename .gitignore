@@ -1,0 +1,14 @@
+node_modules
+build
+
+coverage
+coverage.json
+coverageEnv
+scTopics
+allFiredEvents
+yarn.lock
+package-lock.json
+.DS_Store
+yarn-error.log
+.coverage_contracts
+.coverage_artifacts
